@@ -9,6 +9,9 @@
     <string name="Radio">Radio Button</string>
     <string name="CheckB">Check Box</string>
     <string name="SwitchB">Enable Something</string>
-
+    <string name="finishActivityMessage">Finish</string>
+    <string name="finishActivityTitle">Finish Title</string>
+    <string name="ok" >OK</string>
+    <string name="cancel">Cancel</string>
 
 </resources>
